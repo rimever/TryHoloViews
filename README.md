@@ -1,2 +1,2 @@
 # TryHoloViews
-HoloViewsを試した
+HoloViewsを試すためのリポジトリです。
